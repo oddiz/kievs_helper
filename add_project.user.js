@@ -5,6 +5,7 @@
 // @description  Proce ekleme kolayligisi
 // @author       Koan
 // @match        https://www.example.com/
+// @match        http://hpowereuat.azurewebsites.net/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        GM_getValue
 // @grant        GM_setValue
