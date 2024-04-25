@@ -12,6 +12,7 @@
 // @grant        GM_setClipboard
 // @require      https://github.com/AugmentedWeb/UserGui/raw/Release-1.0/usergui.js
 // @require      file://C:/Users/kaans/Desktop/Dev/kevser/tampermonkey/add_project.user.js
+// @require      https://github.com/oddiz/kievs_helper/raw/main/add_project.user.js
 // @run-at       document-end
 // ==/UserScript==
 
