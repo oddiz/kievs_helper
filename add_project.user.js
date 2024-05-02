@@ -27,7 +27,7 @@
   const Gui = new UserGui();
   Gui.settings.window.title = "Kievs Helper"; // set window title
   Gui.settings.window.centered = true;
-  Gui.settings.window.external = true;
+  Gui.settings.window.external = false;
   Gui.addPage(
     "Project Parse",
     `<div class="rendered-form">
